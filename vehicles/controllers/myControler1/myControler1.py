@@ -3,7 +3,7 @@ from controller import Keyboard
 
 keyboard = Keyboard(10)
 driver = Driver()
-speed= 0
+speed= 10
 keyboard.enable(10)
 #driver.setSteeringAngle(0)
 #driver.setCruisingSpeed(-10)
