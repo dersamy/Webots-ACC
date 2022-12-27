@@ -27,5 +27,5 @@ you can select the speed of the car using numpad keys (1 for 10km/h, 2 for 20km/
 
 
 ----------------------------------------------------------------
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ihZa0MVYdrQ" title="Adaptatif Cruise Control ( ACC ) - Webots for Automobile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/ihZa0MVYdrQ/maxresdefault.jpg)](https://youtu.be/ihZa0MVYdrQ)
       
