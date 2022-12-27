@@ -7,9 +7,9 @@ python version >= 3.10 required
 
 Scenario of the simulation: 
 
-	We have 2 vehicles: 
-- a red car with keyboard control 
-- a grey car that integrates the ACC system 
+We have 2 vehicles: 
+	- a red car with keyboard control 
+	- a grey car that integrates the ACC system 
 
 The user has the control of the red car with the directional keys of the keyboard and he can also increase the speed with the numeric pad (1 for 10km/h, 2 for 20 km/h, etc...)
 The goal is to accelerate and see the reactivity of the regulator at different speeds.  
