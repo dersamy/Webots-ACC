@@ -15,7 +15,7 @@ The user has the control of the red car with the directional keys of the keyboar
 The goal is to accelerate and see the reactivity of the regulator at different speeds.  
 
 ------------------------------------------------------------
-The system is implemented on a Tesla Model 3 PROTO using a controller coded in python that a simple PID regulator to keep the car at a certain distance while keeping constant speed set by the user 
+The system is implemented on a Tesla Model 3 PROTO using a controller coded in python that is a simple PID regulator that keep the car at a certain distance while keeping a max speed set by the user 
 
 The second car in the simulation is controlled using keyboard with the follwing keys :
 - UP Arrow : Go Forward 
